@@ -1,2 +1,4 @@
-`$ bower init`
-`$ bower install package-name --save`
+`$ npm install`
+`$ bower install`
+`$ gulp build`
+`$ gulp serve`
